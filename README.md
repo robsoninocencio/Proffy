@@ -84,7 +84,7 @@ E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualst
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/robsoninocencio/proffy
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd proffy
@@ -109,7 +109,7 @@ $ npm knex:migrate ou yarn knex:migrate
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/robsoninocencio/proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
@@ -130,7 +130,7 @@ $ npm start ou yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/robsoninocencio/proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
@@ -171,29 +171,17 @@ Me acompanhe nas minhas redes sociais.
 
 <p align="center">
 
-   <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
-     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
-  
-  <a href="https://instagram.com/ialexanderbrito" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-  
-  <a href="https://facebook.com/ialexanderbrito" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
-
-  <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
+  <a href="https://https://www.linkedin.com/in/robsoninocencio/" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
   
-  <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
+  <a href="mailto:robson.inocencio@gmail.com" target="_blank" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
   
-  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
+  <a href="https://api.whatsapp.com/send?phone=5547988748655" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
-    
-   <a href="https://t.me/ialexanderbrito" target="_blank" >
-    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
     
 </p>
 
 ---
 
-Feito com ❤️ by **Alexander** 🤙🏾
+Feito com ❤️ by **Robson** 🤙🏾
