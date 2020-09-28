@@ -171,7 +171,7 @@ Me acompanhe nas minhas redes sociais.
 
 <p align="center">
 
-  <a href="https://https://www.linkedin.com/in/robsoninocencio/" target="_blank" >
+  <a href="https://www.linkedin.com/in/robsoninocencio/" target="_blank" >
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
   
   <a href="mailto:robson.inocencio@gmail.com" target="_blank" >
