@@ -4,11 +4,11 @@
  <b>A sua plataforma de estudos online </b> 👨🏾‍🏫 👨🏾‍🎓
 </h4>
 <p align="center">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="" src="https://img.shields.io/github/repo-size/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ialexanderbrito/proffy?style=flat-square" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/robsoninocencio/proffy?style=flat-square" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/robsoninocencio/proffy?style=flat-square" />
+  <img alt="" src="https://img.shields.io/github/repo-size/robsoninocencio/proffy?style=flat-square" />
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/robsoninocencio/proffy?style=flat-square" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/robsoninocencio/proffy?style=flat-square" />
     
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet?style=flat-square"></a>
